@@ -17,7 +17,7 @@ con export/import pero tampoco pude lograra que eso funcionara. Busque en intern
 Por ultimo. No tengo mucha idea de lo que hice con Glitch para que funcione. La explicacion de la clase 6 fue un poco por arriba y muy ajustada al ejemplo que estaba
 dando el profesor. No se de forma "prolija" como comenzar el proyecto de 0 con sus dependencias y todo. es decir, sin copiar una URL y volcando todo el contenido de server.js 
 copiado desde mi archivo. Lo que hice fue aprovechar una opcion para importar un repo desde github, en la terminal iniciar node server.js, luego al ir a "share > livesite" 
-copiar el link y ejecutarlo en otra ventana funciono. 
+copiar el link y ejecutarlo en otra ventana funciono.
 
 Sin mas observaciones gracias por tu tiempo!
 ---------------------------------------------------------------------------------------------------
